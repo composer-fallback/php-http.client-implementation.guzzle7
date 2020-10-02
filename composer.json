@@ -10,7 +10,5 @@
         "php-http",
         "client-implementation"
     ],
-    "require": {
-        "php-http/guzzle7-adapter": "*"
-    }
+    "require": []
 }
